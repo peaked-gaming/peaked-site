@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+//PEAKED CSS - WHERE THE MAGIC HAPPENS
+//VERSION 0.0.1
+//BUILD 28J119
+//CODED AND DESIGNED BY DIGITVLL
+//BACKEND DEVELOPMENT BY CAFFINATEDJAWA
+//OFFICIAL PALLET #bfbdbb, #057abf and #1a1a1a
+
+#wrapper {
+	width: 1400px;
+	align-content: center;
+}
+
+#header {
+	width: 100%;
+	height: 20%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-image: url("../img/bg.png")
+	text-align: center;
+}
+
+#content {
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+#footer {
+	width: 100%;
+	height: 20%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background-image: url("../img/bg.png")
+}
+
