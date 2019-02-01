@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> master
+/*	PEAKED CSS - WHERE THE MAGIC HAPPENS						*/
+/*	VERSION 0.0.1												*/
+/*	BUILD 28J119												*/
+/*	CODED AND DESIGNED BY DIGITVLL, GOOF and CAFFINATEDJAWA		*/
+/*	OFFICIAL PALLET #bfbdbb, #057abf and #1a1a1a				*/
+
+<<<<<<< HEAD
+=======
+>>>>>>> master
+=======
+>>>>>>> master
 body {
   background-color: #fffafa;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -27,7 +43,15 @@ body {
   background-color: #bbbdbe;
   background-size: cover;
   padding: 20em 10em 20em 10em;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  background: url("../img/bg.png") no-repeat center center;
+=======
   background: url("/img/bg.png") no-repeat center center;
+>>>>>>> master
+=======
+  background: url("../img/bg.png") no-repeat center center;
+>>>>>>> master
 }
 
 #main-banner h1 {
@@ -170,7 +194,15 @@ h3 {
 }
 
 #apply-banner {
+<<<<<<< HEAD
+<<<<<<< HEAD
+  background: url("../img/bg.png") no-repeat center center;
+=======
   background: url("/img/bg.png") no-repeat center center;
+>>>>>>> master
+=======
+  background: url("../img/bg.png") no-repeat center center;
+>>>>>>> master
   background-size: cover;
 }
 
