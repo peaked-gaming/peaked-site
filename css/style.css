@@ -203,3 +203,12 @@ h3 {
 #footer {
   margin-top: 1.5em;
 }
+
+.connect-icon {
+  width: 60%;
+}
+
+#connect {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
