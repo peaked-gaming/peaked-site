@@ -7,7 +7,7 @@ if(isset($_POST['submit'])) {
   $message = $_POST['message'];
 
 
-  $mailTo = "";
+  $mailTo = "admin@peakedgaming.com";
   $head = "From: ".$email;
   $contact = "New Contact Form Submission From: ".$name.".\n\n".$message;
 

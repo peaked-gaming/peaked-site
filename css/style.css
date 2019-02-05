@@ -30,18 +30,15 @@ body {
   font-size: 22px;
   padding: 15px;
 }
+
 #main-banner {
   background-color: #bbbdbe;
-  background-size: cover;
   padding: 20em 10em 20em 10em;
   background: url("../img/bg.png") no-repeat center center;
 }
 
-#main-banner h1 {
-  line-height: 1.3em;
-  color: #fff;
-  font-weight: 900;
-  margin: 0 5.8em 0 5.8em;
+#banner-logo {
+  margin: 0 auto;
 }
 
 .bodyh1 {
@@ -211,4 +208,14 @@ h3 {
 #connect {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
+}
+
+#mission {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+#ms {
+  font-size: 22px;
+  font-weight: 400;
 }
